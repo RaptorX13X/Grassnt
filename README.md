@@ -2,7 +2,7 @@
 
 ### About the project
 Grassn't was a submission to June 2023 local gamejam completed in 48 hours of work. The topic was "pokój" (or peace / room in english), we approached the topic by designing a game about a teenager being forced out of his room by friends, family and grass trying to disturb his peace. 
-As a beginner programmer I was supporting two more experienced programmers. I was responsible for all weapon scripts and some other minor scripts. 
+As a beginner programmer I was supporting two more experienced programmers. I was responsible for all weapon scripts and some other minor scripts. The weapons are universal and can be attached to both the player and the enemy.
 Due to a silly friendly atmosphere some scripts may contain major spelling errors.
 
 ### How does it work
