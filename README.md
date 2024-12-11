@@ -41,6 +41,6 @@ public class Pillow : MonoBehaviour
 ```
 
 This weapon is a projectile that explodes on hit and deals AoE damage. 
--When the pillow hits an enemy or an obstacle it creates an array of all objects in its hit radius.
--The foreach look checks each object for two components, firstly if it has a component exclusive to the player it ignores the object, otherwise it checks for the health component and deals damage.
--After checking all the object the method ExplodePillow is called. The renderer and collider get disabled, the particle effect of feathers starts playing and after a second the game object gets destroyed.
+- When the pillow hits an enemy or an obstacle it creates an array of all objects in its hit radius.
+- The foreach look checks each object for two components, firstly if it has a component exclusive to the player it ignores the object, otherwise it checks for the health component and deals damage.
+- After checking all the object the method ExplodePillow is called. The renderer and collider get disabled, the particle effect of feathers starts playing and after a second the game object gets destroyed.
